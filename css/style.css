@@ -161,7 +161,7 @@ border:1px solid #FD6E0A;
 .contactDetails{
     display: flex;
     justify-content: center;
-    gap: 50px;
+    gap: 70px;
 
 }
 .contactDetails h6{
