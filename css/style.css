@@ -63,7 +63,7 @@ a {
     border-radius: 5px;
     font-size: 20px;
     font-weight:600;
-    transition: .3s color  ease-out;
+    transition: .5s color  ease-out;
 
 }
 .btn:hover {
