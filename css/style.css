@@ -170,7 +170,7 @@ a {
 }
 .circles{
     position: absolute;
-    bottom:0;
+    bottom:-5px;
     left:-230px;
     
     
